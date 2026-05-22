@@ -19,10 +19,10 @@
 
 CS student building backend systems that actually scale. I spend most of my time in **Node.js**, **NestJS**, and **.NET** — designing APIs, wiring up databases, and deploying to cloud infrastructure on **Azure** and **AWS**.
 
-- 🔭 Currently working on — *[your current project]*
-- 🌱 Currently learning — *[e.g. distributed systems / Kubernetes / system design]*
+- 🔭 Currently working on — Linux and Networking Skills 
+- 🌱 Currently learning — Cyber Security 
 - 💼 Open to backend internships and junior roles
-- 🏠 Based in Karachi, Pakistan
+- 🏠 Based in Multan, Pakistan
 
 ---
 
@@ -32,50 +32,28 @@ CS student building backend systems that actually scale. I spend most of my time
 <table>
 <tr>
 <td width="50%">
-
-**[Project Name One](https://github.com/MuhammadKhann/repo-name)**
-
-A brief one or two sentence description of what this project does and why it's interesting. Focus on the problem it solves.
-
-`NestJS` `MongoDB` `AWS` `REST API`
-
-⭐ Stars · 🍴 Forks
-
+my-Chat-App
+Full-stack real-time chat with video/voice calling via WebRTC, privacy controls (ghost mode, read receipt hiding), user blocking, Google OAuth with PKCE, and file attachments. Deployed on Vercel.
+Node.js React MongoDB Socket.io WebRTC JWT Cloudinary
+🔗 Live Demo
 </td>
 <td width="50%">
-
-**[Project Name Two](https://github.com/MuhammadKhann/repo-name)**
-
-A brief one or two sentence description of what this project does and why it's interesting. Focus on the problem it solves.
-
-`Node.js` `SQL Server` `Azure` `Socket.io`
-
-⭐ Stars · 🍴 Forks
-
+vector-visualizer
+Interactive 3D vector field visualizer for multivariable calculus — renders 1000+ GPU-instanced arrows, verifies Stokes' & divergence theorems numerically, and includes 15 physics presets (EM, fluid, gravity). Dockerized with full CI/CD.
+React Three.js Node.js MongoDB Docker GitHub Actions
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-**[Project Name Three](https://github.com/MuhammadKhann/repo-name)**
-
-A brief one or two sentence description of what this project does and why it's interesting. Focus on the problem it solves.
-
-`.NET` `React` `PostgreSQL` `Docker`
-
-⭐ Stars · 🍴 Forks
-
+Choppers-Salon-Website
+Modern salon landing page built with React + TypeScript and Vite, powered by the Gemini API. Clean, responsive UI with service listings and booking flow.
+TypeScript React Vite Gemini API
+🔗 Live Demo
 </td>
 <td width="50%">
-
-**[Project Name Four](https://github.com/MuhammadKhann/repo-name)**
-
-A brief one or two sentence description of what this project does and why it's interesting. Focus on the problem it solves.
-
-`Next.js` `Firebase` `TailwindCSS`
-
-⭐ Stars · 🍴 Forks
-
+Snake-game
+Console-based Snake game in C++ — built in 3rd semester to learn game loops, real-time input handling with conio.h, array-based tail management, and procedural game architecture.
+C++ OOP Game Loop conio.h
 </td>
 </tr>
 </table>
