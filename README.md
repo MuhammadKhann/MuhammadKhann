@@ -131,6 +131,11 @@ Console-based Snake game in C++ — built in 3rd semester to learn game loops, r
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKhann&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadKhann&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+
 ### 🏆 GitHub trophies
 
 <div align="center">
