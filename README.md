@@ -128,7 +128,6 @@ Console-based Snake game in C++ — built in 3rd semester to learn game loops, r
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MuhammadKhann&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKhann&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
 
 <p align="center">
