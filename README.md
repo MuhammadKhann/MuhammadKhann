@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadKhann)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23534AB7.svg?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bin-nasir-5b790b308/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Muhammad.243595@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23534AB7.svg?style=flat-square&logo=vercel&logoColor=white)](https://my-chat-app-sand-delta.vercel.app/)
 [![Profile views](https://komarev.com/ghpvc/?username=MuhammadKhann&style=flat-square&color=534AB7)](https://github.com/MuhammadKhann)
 
 </div>
