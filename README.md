@@ -15,7 +15,7 @@
 
 ---
 
-### Hey, I'm Muhammad 👋
+### Asalamualykum, I'm Muhammad 👋
 
 CS student building backend systems that actually scale. I spend most of my time in **Node.js**, **NestJS**, and **.NET** — designing APIs, wiring up databases, and deploying to cloud infrastructure on **Azure** and **AWS**.
 
